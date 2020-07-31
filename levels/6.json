@@ -1,0 +1,406 @@
+{
+  "color": [
+    [74, 73, 61],
+    [121, 139, 115],
+    [220, 199, 192],
+    [196, 225, 247]
+  ],
+  "levels": [
+    {
+      "color": [
+        [64, 46, 51],
+        [113, 96, 94],
+        [170, 132, 104],
+        [192, 231, 111]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "corners",
+      "solved": false
+    },
+    {
+      "color": [
+        [137, 47, 74],
+        [199, 65, 39],
+        [175, 107, 24],
+        [181, 92, 29]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "corners",
+      "solved": false
+    },
+    {
+      "color": [
+        [80, 27, 60],
+        [187, 33, 88],
+        [199, 85, 106],
+        [231, 169, 163]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "corners",
+      "solved": false
+    },
+    {
+      "color": [
+        [30, 13, 36],
+        [25, 34, 97],
+        [55, 9, 67],
+        [168, 151, 153]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "corners",
+      "solved": false
+    },
+    {
+      "color": [
+        [119, 108, 111],
+        [234, 210, 155],
+        [234, 240, 241],
+        [54, 73, 96]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "frame",
+      "solved": false
+    },
+    {
+      "color": [
+        [43, 68, 86],
+        [20, 58, 94],
+        [60, 167, 161],
+        [250, 209, 97]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "checkerboard",
+      "solved": false
+    },
+    {
+      "color": [
+        [88, 144, 112],
+        [88, 91, 101],
+        [106, 101, 79],
+        [230, 204, 176]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "frame",
+      "solved": false
+    },
+    {
+      "color": [
+        [6, 142, 178],
+        [155, 193, 203],
+        [219, 222, 229],
+        [254, 253, 250]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "barsInner",
+      "solved": false
+    },
+    {
+      "color": [
+        [116, 34, 40],
+        [204, 53, 29],
+        [248, 196, 115],
+        [66, 118, 108]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "barsOuter",
+      "solved": false
+    },
+    {
+      "color": [
+        [52, 55, 45],
+        [105, 154, 128],
+        [252, 252, 248],
+        [167, 169, 171]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "checkerboard",
+      "solved": false
+    },
+    {
+      "color": [
+        [37, 39, 44],
+        [196, 183, 153],
+        [235, 227, 219],
+        [238, 233, 217]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "corners",
+      "solved": false
+    },
+    {
+      "color": [
+        [98, 148, 95],
+        [123, 55, 35],
+        [88, 42, 24],
+        [156, 33, 38]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "barsOuter",
+      "solved": false
+    },
+    {
+      "color": [
+        [245, 240, 205],
+        [65, 166, 142],
+        [25, 113, 113],
+        [19, 62, 87]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "barsInner",
+      "solved": false
+    },
+    {
+      "color": [
+        [254, 29, 34],
+        [36, 209, 178],
+        [21, 183, 172],
+        [16, 38, 92]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "barsOuter",
+      "solved": false
+    },
+    {
+      "color": [
+        [64, 90, 90],
+        [165, 198, 137],
+        [250, 235, 92],
+        [212, 181, 101]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "corners",
+      "solved": false
+    },
+    {
+      "color": [
+        [189, 121, 105],
+        [227, 227, 221],
+        [79, 89, 93],
+        [55, 70, 90]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "frame",
+      "solved": false
+    },
+    {
+      "color": [
+        [23, 35, 71],
+        [132, 106, 131],
+        [225, 42, 92],
+        [240, 185, 159]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "barsOuter",
+      "solved": false
+    },
+    {
+      "color": [
+        [232, 139, 77],
+        [219, 91, 68],
+        [184, 68, 61],
+        [83, 37, 58]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "barsInner",
+      "solved": false
+    },
+    {
+      "color": [
+        [229, 228, 137],
+        [152, 174, 73],
+        [105, 114, 46],
+        [103, 141, 141]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "frame",
+      "solved": false
+    },
+    {
+      "color": [
+        [37, 69, 83],
+        [121, 141, 82],
+        [225, 202, 112],
+        [245, 203, 153]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "frame",
+      "solved": false
+    },
+    {
+      "color": [
+        [57, 120, 124],
+        [152, 231, 161],
+        [235, 229, 123],
+        [253, 244, 191]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "checkerboard",
+      "solved": false
+    },
+    {
+      "color": [
+        [247, 233, 186],
+        [206, 119, 95],
+        [96, 25, 80],
+        [104, 39, 78]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "barsInner",
+      "solved": false
+    },
+    {
+      "color": [
+        [51, 118, 128],
+        [129, 172, 141],
+        [245, 225, 155],
+        [247, 154, 131]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "frame",
+      "solved": false
+    },
+    {
+      "color": [
+        [25, 46, 52],
+        [57, 168, 140],
+        [201, 211, 155],
+        [251, 214, 86]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "barsInner",
+      "solved": false
+    },
+    {
+      "color": [
+        [55, 87, 86],
+        [61, 146, 150],
+        [241, 228, 182],
+        [234, 163, 48]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "barsOuter",
+      "solved": false
+    },
+    {
+      "color": [
+        [115, 113, 107],
+        [205, 175, 171],
+        [242, 239, 231],
+        [207, 179, 165]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "corners",
+      "solved": false
+    },
+    {
+      "color": [
+        [155, 83, 57],
+        [188, 180, 111],
+        [205, 174, 111],
+        [137, 152, 118]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "checkerboard",
+      "solved": false
+    },
+    {
+      "color": [
+        [27, 48, 53],
+        [95, 121, 115],
+        [189, 184, 151],
+        [250, 236, 194]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "barsOuter",
+      "solved": false
+    },
+    {
+      "color": [
+        [144, 177, 107],
+        [197, 136, 51],
+        [147, 48, 22],
+        [94, 12, 12]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "frame",
+      "solved": false
+    },
+    {
+      "color": [
+        [41, 34, 42],
+        [57, 73, 98],
+        [155, 122, 125],
+        [225, 186, 176]
+      ],
+      "dimensions": [5, 5],
+      "scrambled": "barsInner",
+      "solved": false
+    },
+    {
+      "color": [
+        [24, 79, 163],
+        [27, 193, 211],
+        [9, 247, 132],
+        [236, 237, 69]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "barsOuter",
+      "solved": false
+    },
+    {
+      "color": [
+        [72, 94, 90],
+        [7, 120, 165],
+        [8, 199, 216],
+        [243, 137, 46]
+      ],
+      "dimensions": [9, 9],
+      "scrambled": "barsInner",
+      "solved": false
+    },
+    {
+      "color": [
+        [22, 46, 59],
+        [13, 99, 148],
+        [69, 151, 157],
+        [167, 202, 180]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "frame",
+      "solved": false
+    },
+    {
+      "color": [
+        [36, 56, 69],
+        [50, 71, 91],
+        [72, 96, 116],
+        [125, 182, 174]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "frame",
+      "solved": false
+    },
+    {
+      "color": [
+        [61, 43, 46],
+        [90, 104, 115],
+        [153, 148, 167],
+        [105, 200, 213]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "barsOuter",
+      "solved": false
+    },
+    {
+      "color": [
+        [5, 36, 30],
+        [46, 114, 78],
+        [173, 186, 130],
+        [235, 172, 87]
+      ],
+      "dimensions": [7, 7],
+      "scrambled": "checkerboard",
+      "solved": false
+    }
+  ]
+}
